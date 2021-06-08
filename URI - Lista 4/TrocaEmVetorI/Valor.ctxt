@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Valor
+comment1.params=valor
+comment1.target=void\ setValor(int)
+comment2.params=n\ posic
+comment2.target=void\ setA(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ posicao()
+numComments=4

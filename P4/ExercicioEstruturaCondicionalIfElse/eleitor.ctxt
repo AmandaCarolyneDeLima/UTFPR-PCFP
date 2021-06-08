@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=eleitor
+comment1.params=idade
+comment1.target=eleitor(int)
+comment2.params=idade
+comment2.target=void\ setIdade(int)
+comment3.params=
+comment3.target=int\ getIdade()
+comment4.params=
+comment4.target=java.lang.String\ getSituacaoVoto()
+numComments=5

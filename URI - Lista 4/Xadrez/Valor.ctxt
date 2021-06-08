@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Valor
+comment1.params=valorL
+comment1.target=void\ setValorL(int)
+comment2.params=valorC
+comment2.target=void\ setValorC(int)
+comment3.params=
+comment3.target=int\ xadrez()
+numComments=4

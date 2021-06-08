@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=extrafuncionario
+comment1.params=
+comment1.target=extrafuncionario()
+comment2.params=totalVendas
+comment2.target=void\ setTotalVendas(float)
+comment3.params=
+comment3.target=float\ getTotalVendas()
+comment4.params=
+comment4.target=float\ getBonificacao()
+numComments=5

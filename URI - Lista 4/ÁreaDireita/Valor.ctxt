@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Valor
+comment1.params=valor
+comment1.target=void\ setValor(double)
+comment2.params=
+comment2.target=double\ getValor()
+comment3.params=O
+comment3.target=void\ setO(char)
+comment4.params=definir
+comment4.target=void\ setDefinir(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDefinir()
+comment6.params=
+comment6.target=double\ posicao()
+numComments=7

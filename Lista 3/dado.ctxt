@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=dado
+comment1.params=
+comment1.target=dado()
+comment2.params=
+comment2.target=int\ getFace()
+comment3.params=face
+comment3.target=void\ setFace(int)
+comment4.params=
+comment4.target=int\ getFaceA()
+comment5.params=faceA
+comment5.target=void\ setFaceA(int)
+comment6.params=
+comment6.target=int\ getFaceB()
+comment7.params=faceB
+comment7.target=void\ setFaceB(int)
+comment8.params=
+comment8.target=int\ getAnterior()
+comment9.params=anterior
+comment9.target=void\ setAnterior(int)
+numComments=10

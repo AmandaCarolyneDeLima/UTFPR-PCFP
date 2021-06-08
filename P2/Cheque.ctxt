@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cheque
+comment1.params=n
+comment1.target=void\ setValor(int)
+comment2.params=
+comment2.target=java.lang.String\ getValorPorExtenso()
+numComments=3

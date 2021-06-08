@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Valor
+comment1.params=linha\ coluna
+comment1.target=Valor(int,\ int)
+comment2.params=valor
+comment2.target=void\ setValor(int)
+comment3.params=m\ linha\ coluna
+comment3.target=void\ setM(double,\ int,\ int)
+comment4.params=O
+comment4.target=void\ setO(char)
+comment5.params=
+comment5.target=int\ getLinha()
+comment6.params=
+comment6.target=int\ getColuna()
+comment7.params=
+comment7.target=void\ posicao()
+numComments=8
